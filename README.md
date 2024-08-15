@@ -1,2 +1,2 @@
 # Pharmacy-java
-A psimple Pharmacy application using java basic concepts.
+A simple Pharmacy application using java basic concepts.
